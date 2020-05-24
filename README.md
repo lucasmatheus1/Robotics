@@ -11,7 +11,7 @@ Develop a robot that rescues victims in unknown environments.
 
 ### Implementation
 
-The implementation was done in Python 3. The MQTT protocol was used, with the [Paho MQTT] (https://pypi.org/project/paho-mqtt/) from eclipse.
+The implementation was done in Python 3. The MQTT protocol was used, with the [Paho MQTT](https://pypi.org/project/paho-mqtt/) from eclipse.
 
 ### Operation
 
